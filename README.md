@@ -1,7 +1,6 @@
 
 <img src="rooza.jpg" width="250" height="250" />
-
-# **Rawan Sayed Badr**   
+  
 
 
 [<img src="resume.png" width="60" height="60" />](https://github.com/sbme-tutorials/sbe201-markdown-resumes-sbe201-2021-team06/blob/master/member2.md)
